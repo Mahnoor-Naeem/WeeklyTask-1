@@ -21,7 +21,7 @@ header, h5{
     position: fixed;
     top: 0px;
 }
-#navbar>header{
+#navbar>h5{
     font-size: 1.5em;
     padding-left: 10px;
 }
